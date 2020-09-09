@@ -1,5 +1,5 @@
 _repo: Les-Industriels-Metiers-et-professions-en-France_63063
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Monnier, Henry
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52255'
     url: http://www.gutenberg.org/2009/agents/52255
     wikipedia: https://en.wikipedia.org/wiki/Henry_Monnier
+covers:
+- cover_type: archival
+  image_path: 63063-h/images/cover.jpg
 creator:
   author:
     agent_name: La Bédollière, Emile de
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32708
     wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_de_La_B%C3%A9dolli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63063#Les-Industriels-Metiers-et-professions-en-France
 gutenberg_issued: '2020-08-27'
 gutenberg_type: Text
 identifiers:
